@@ -1,7 +1,7 @@
 
 ---
 title: The Future of Privacy
-reading_time: true  
+reading_time: false 
 share: true  
 profile: false
 comments: false
