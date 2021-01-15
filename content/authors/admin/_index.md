@@ -41,6 +41,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/umbgc/
+- icon: envelope
+  icon_pack: fas
+  link: mailto:samuel.cornell@sydney.edu.au
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4944-7826
@@ -49,12 +52,11 @@ social:
   link: https://github.com/samuelcornell
 
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+
+
+- icon: cv
+icon_pack: ai
+link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,4 +67,4 @@ highlight_name: false
 
 Sam is interested in all things human and extreme.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
