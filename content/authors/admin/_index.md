@@ -6,7 +6,7 @@ title: Samuel Cornell
 superuser: true
 
 # Role/position/tagline
-role: 
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  Sam is interested in all things human and extreme.
 
 # Interests to show in About widget
 interests:
@@ -50,13 +50,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/samuelcornell
-
-
-
-
 - icon: cv
-icon_pack: ai
-link: media/resume.pdf
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
