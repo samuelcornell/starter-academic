@@ -62,6 +62,5 @@ email: ""
 highlight_name: false
 ---
 
-Sam is interested in all things human and extreme.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
