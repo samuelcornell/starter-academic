@@ -14,6 +14,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
+
 bio: Sam currently works as a Trial Coordinator the CHAT-GP study
 
 # Interests to show in About widget
