@@ -15,17 +15,20 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Sam currently works as a Trial Coordinator the CHAT-GP study
+bio: I am a PhD student in the Thermal Ergonomics Lab at the University of Sydney
 
 # Interests to show in About widget
 interests:
-- Physiology
-- Health
-- Philosophy
+- Environmental physiology
+- Heat and health
+- Human factors
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Thermal Ergonomics
+    institution: University of Sydney
+    year: 2021 to present
   - course: Master of Science by Research
     institution: University of South Wales
     year: 2019
@@ -39,6 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/scicornell
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=sqZAYYcAAAAJ&hl=en
 - icon: osf
   icon_pack: ai
   link: https://osf.io/umbgc/
@@ -59,7 +68,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 
