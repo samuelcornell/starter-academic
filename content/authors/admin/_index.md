@@ -62,7 +62,7 @@ social:
   link: https://github.com/samuelcornell
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: media/cv_cornell.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ highlight_name: true
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
