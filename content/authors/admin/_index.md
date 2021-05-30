@@ -71,5 +71,7 @@ email: ""
 highlight_name: true
 ---
 
+Sam is a Thermal Physiologist in training, with a background in Public Health research, and is a closet anthropologist.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
