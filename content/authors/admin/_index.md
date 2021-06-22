@@ -15,20 +15,14 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: I am a PhD student in the Thermal Ergonomics Lab at the University of Sydney
+bio: 
 
 # Interests to show in About widget
 interests:
-- Environmental physiology
-- Heat and health
-- Human factors
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Thermal Ergonomics
-    institution: University of Sydney
-    year: 2021 to present
   - course: Master of Science by Research
     institution: University of South Wales
     year: 2019
@@ -71,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Sam is a Thermal Physiologist in training, with a background in Public Health research, and is a closet anthropologist.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
