@@ -1,16 +1,16 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "Why I will be attending a 10-day silent meditation course (again) and what led me here"
-subtitle: ""
-summary: ""
-authors: []
-tags: []
-categories: []
-date: 2021-06-23T17:33:03+10:00
-lastmod: 2021-06-23T17:33:03+10:00
-featured: false
-draft: false
+date: 2021-07-16
+reading_time: true
+share: false 
+profile: false
+comments: true
+featured: true
+image:
+  caption: privacy
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

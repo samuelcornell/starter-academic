@@ -2,7 +2,7 @@
 title: "Positive outcomes associated with the COVID-19 pandemic in Australia"
 date: 2021-04-12
 publishDate: '2021-05-16T09:27:26.050943Z'
-authors: ["Samuel Cornell", "Brooke Nickel", "Erin Cvejic", "Carissa Bonner", "Kirsten J. McCaffery", "Julie Ayre", "Tessa Copp", "Carys Batcup", Jennifer Isautier", "Thomas Dakin", "Rachael Dodd"]
+authors: ["Samuel Cornell", "Brooke Nickel", "Erin Cvejic", "Carissa Bonner", "Kirsten J. McCaffery", "Julie Ayre", "Tessa Copp", "Carys Batcup", Jennifer Isautier, "Thomas Dakin", "Rachael Dodd"]
 publication_types: ["2"]
 abstract: "Issue addressed To investigate whether Australians have experienced any
   positive effects during the COVID-19 pandemic. Methods National online longitudinal

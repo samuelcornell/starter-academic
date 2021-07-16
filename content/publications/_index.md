@@ -1,11 +1,12 @@
 ---
-title: Writing
+title: Publications
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
+#   4 = Citation
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
