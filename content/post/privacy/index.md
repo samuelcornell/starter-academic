@@ -3,8 +3,8 @@
 title: The Future of Privacy
 date: 2020-01-15
 reading_time: true 
-share: false 
-profile: false
+share: true 
+profile: true
 comments: false
 featured: false
 image:

@@ -2,30 +2,12 @@
 title: "Why I will be attending a 10-day silent meditation course (again) and what led me here"
 date: 2021-07-16
 reading_time: true
-share: false 
-profile: false
+share: true
+profile: true
 comments: true
-featured: true
+featured: false
 image:
-  caption: privacy
-  focal_point: ""
-  placement: 2
-  preview_only: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 
 Nearly four years ago, I found myself volunteering on a lavender farm in Canada. Sounds idyllic, I know. It was a fortuitous place to arrive, as my initial landing place in that vast open land was a dilapidated, post-apocalyptic Bunkeresque smallholding owned and operated by a reefer smoking, middle-aged, married couple. I was, after all, in British Colombia, home to the infamous BC bud, where attitudes towards the production and consumption of marijuana are lax. I felt like I had suddenly been thrust into a locus of the video game San Andreas.

@@ -6,7 +6,7 @@ title: Samuel Cornell
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Researcher and writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,10 +15,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: 
+bio: Sam is a researcher, writer, running enthusiast and seeker of truth.
 
 # Interests to show in About widget
-interests:
+interests: 
+
+- Philosophy
+- Anthropology
 
 # Education to show in About widget
 education:

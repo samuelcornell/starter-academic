@@ -4,7 +4,7 @@ title: GAMSAT practice essays 2018 - 'Exploration', 'Humour' and 'Haste'
 date: 2020-01-15
 reading_time: true 
 share: true 
-profile: false
+profile: true
 comments: true
 featured: true
 image:
