@@ -68,6 +68,7 @@ email: ""
 highlight_name: true
 ---
 
+Sam is currently working in the Sydney Health Literacy Lab on projects including CVD risk assessment and COVID-19 research.
 
 
 
