@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Sam is a researcher, writer, running enthusiast and seeker of truth.
+bio: I start to think, and then I sink into the paper, like I was ink
 
 # Interests to show in About widget
 interests: 
@@ -72,4 +72,4 @@ Sam is currently working in the Sydney Health Literacy Lab on projects including
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
