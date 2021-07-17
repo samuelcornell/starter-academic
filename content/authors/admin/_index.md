@@ -72,4 +72,4 @@ Sam is currently working in the Sydney Health Literacy Lab on projects including
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
