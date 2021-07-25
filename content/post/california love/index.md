@@ -16,8 +16,6 @@ image:
 
 ---
 
-# California Love
-
 During my teen years, I was a gamer. My fascination, addiction actually, to the screen which immersed me in other, more vivid, worlds was cathartic. This was a time when video-game technology was increasing rapidly. Games were becoming clearer, more life-like, and much more captivating. Online gaming was also skyrocketing; regular games were being made with connectivity front of mind. Previously, I'd get lost in the artificial arena of the simulated world. Now, I was being plunged into other cultures on our planet, by communicating with people from all over the world - whilst I shot at them.
 
 Around the age of six, I received my first games console. It was a SEGA Megadrive, and came with a stocky cartridge containing the game 'Sonic the Hedgehog'. I devoured Sonic the Hedgehog almost daily for years to come. But I'm pretty sure I never completed it. I never could beat the Boss on the third stage. This is not exactly a testament to my gaming ability - I was never destined to win millions in eSports. 
