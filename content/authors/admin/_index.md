@@ -70,6 +70,7 @@ highlight_name: true
 
 Sam is currently working in the Sydney Health Literacy Lab on projects including CVD risk assessment and COVID-19 research.
 
-
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+Sign up to my Substack
+<iframe src="https://samcornell.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
