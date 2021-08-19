@@ -16,7 +16,6 @@ image:
 
 ---
 
-I wrote the below three essays in answer to the GAMSAT practice essay questions, during my revision, in Summer 2018. They scored high marks on the automated GAMSAT scoring system, between 68 and 72 points. They may be helpful for others preparing to sit the GAMSAT.
 
 ### Exploration
 

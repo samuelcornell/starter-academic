@@ -73,4 +73,4 @@ Sam is currently working in the Sydney Health Literacy Lab on projects including
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "/uploads/cv_cornell.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 Sign up to my Substack
-<iframe src="https://samcornell.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://samcornell.substack.com/embed" width="290" height="90" style="border:1px solid #EEE; background:;" frameborder="0" scrolling="no"></iframe>
